@@ -1,1 +1,1 @@
-Exploring about UNAME without any options. 
+Exploring about UNAME without any options. **UNAME** *--help* for more information.
