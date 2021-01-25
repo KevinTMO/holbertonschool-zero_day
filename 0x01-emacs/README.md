@@ -1,4 +1,4 @@
-#EMACS
+# EMACS
 ## How to use it - The Basics
 
 **Learning Objectives**
