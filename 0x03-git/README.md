@@ -17,3 +17,5 @@
 - How to merge branches
 - How to work as collaborators on a project
 - Which files should and which files should not appear in your repo
+
+### This is an update for an specific exercise 1/26/2021
