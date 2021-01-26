@@ -1,4 +1,4 @@
-#Git - Time to code!
+# Git - Time to code!
 ## Learning Objectives
 **Instructions**
 
